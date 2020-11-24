@@ -3,6 +3,7 @@
 <p align="justify">
 Para adicionar uma ocorrência múltipla basta selecionar uma unidade de referência no menu lateral esquerdo, depois clicar em "Nova ocorrência de pragas/doenças/inimigos naturais", após alguns dados serão necessários sendo eles a data da amostragem, o estádio da cultura e a desfolha. 
 </p>
+
 <p align="justify">
 Caso haja pragas no plantio encontrar a nome correspondente deste na lista e inserir a média encontrada, o mesmo caso haja doenças e inimigos naturais. Lembrando que para adicionar uma nova ocorrência é necessário ter criado uma safra antes. Abaixo um tutorial em vídeo de como adicionar uma ocorrência múltipla.
 </p>
