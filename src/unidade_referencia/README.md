@@ -11,7 +11,7 @@ Uma UR só precisa ser cadastrada apenas uma única vez, se esta foi adicionado 
 Abaixo um tutorial em vídeo de como configurar a Unidade de Referência.
 
 <video width="100%" height="75%" class="audioplayer" controls>
-<source type="video/mp4" src=/ur.mp4></source>
+<source type="video/mp4" src="/documentation/ur.mp4"></source>
 Sem suporte para o vídeo
 </video>
 

@@ -10,7 +10,7 @@ O Gerenciamento da Safra é onde será associado uma unidade de referência já 
 Abaixo um tutorial em vídeo de como configurar o Gerenciamento da Safra.
 
 <video width="100%" height="75%" class="audioplayer" controls>
-<source type="video/mp4" src=/safra.mp4></source>
+<source type="video/mp4" src="/documentation/safra.mp4"></source>
 Sem suporte para o vídeo
 </video>
 
@@ -77,7 +77,7 @@ Passos para configurar a Área:
 ::: details Vídeo de como encontrar os valores de Latitude e Longitude
 
 <video width="100%" height="75%" class="audioplayer" controls>
-<source type="video/mp4" src=/latitude_longitude.mp4></source>
+<source type="video/mp4" src="/documentation/latitude_longitude.mp4"></source>
 Sem suporte para o vídeo
 </video>
 

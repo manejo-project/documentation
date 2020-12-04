@@ -8,8 +8,8 @@ O produtor só precisa ser cadastrado apenas uma única vez, se este foi adicion
 
 Abaixo um tutorial em vídeo de como configurar o Produtor.
 
-<video width="100%" height="75%" class="audioplayer" controls>
-<source type="video/mp4" src=/criando_produtor.mp4></source>
+<video width="100%" height="75%" class="audioplayer" preload="auto" controls>
+<source type="video/mp4" src="/documentation/criando_produtor.mp4"></source>
 Sem suporte para o vídeo
 </video>
 

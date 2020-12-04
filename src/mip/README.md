@@ -10,7 +10,7 @@ Nesta seção iremos aprender como adicionar uma ocorrência de pragas, doenças
 Abaixo um tutorial em vídeo de como configurar o Gerenciamento da Safra.
 
 <video width="100%" height="75%" class="audioplayer" controls>
-<source type="video/mp4" src=/mip.mp4></source>
+<source type="video/mp4" src="/documentation/mip.mp4"></source>
 Sem suporte para o vídeo
 </video>
 
@@ -81,7 +81,7 @@ Caso deseje cancelar está anotação de campo é só clicar em "Cancelar" este 
 ::: details Como adicionar somente a ocorrência de Pragas
 
 <video width="100%" height="75%" class="audioplayer" controls>
-<source type="video/mp4" src=/praga.mp4></source>
+<source type="video/mp4" src="/documentation/praga.mp4"></source>
 Sem suporte para o vídeo
 </video>
 
@@ -90,7 +90,7 @@ Sem suporte para o vídeo
 ::: details Como adicionar somente a ocorrência de Doenças
 
 <video width="100%" height="75%" class="audioplayer" controls>
-<source type="video/mp4" src=/doenças.mp4></source>
+<source type="video/mp4" src="/documentation/doenças.mp4"></source>
 Sem suporte para o vídeo
 </video>
 
@@ -99,7 +99,7 @@ Sem suporte para o vídeo
 ::: details Como adicionar somente a ocorrência de Inimigos Naturais
 
 <video width="100%" height="75%" class="audioplayer" controls>
-<source type="video/mp4" src=/inimigos.mp4></source>
+<source type="video/mp4" src="/documentation/inimigos.mp4"></source>
 Sem suporte para o vídeo
 </video>
 
