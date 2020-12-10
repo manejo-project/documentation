@@ -27,7 +27,7 @@ Passos para configurar a Safra:
 <ul>
   <li><b>Passo 1.</b> No canto esquerdo da página há um menu lateral, selecione a opção "Gerenciamento da Safra".</li>
   <li><b>Passo 2.</b> Clique no botão azul "+ Adicionar UR a Safra" este se encontra no canto superior esquerdo.</li>
-  <li><b>Passo 3.</b> Selecione uma safra presente na lista, atualmente só consta a Safra 2020/2021, clique neste, quando este estiver selecionado a cor de fundo da safra ficará azul.</li>
+  <li><b>Passo 3.</b> Selecione uma safra presente na lista, quando este estiver selecionado a cor de fundo da safra ficará azul.</li>
   <li><b>Passo 4.</b> Clique no botão azul "Próximo", localizado no canto inferior direito.</li>
 </ul>
 </div>
@@ -87,7 +87,7 @@ Sem suporte para o vídeo
 
 <div style="text-align: justify"> 
 <ul>
-  <li><b>Passo 1.</b> Selecione um tipo de manejo presente na lista, atualmente só consta o MIP Soja, clique neste, quando este estiver selecionado a cor de fundo do manejo ficará azul.</li>
+  <li><b>Passo 1.</b> Selecione um tipo de manejo presente na lista, clique no desejado, quando este estiver selecionado a cor de fundo do manejo ficará azul.</li>
   <li><b>Passo 2.</b> Tem coletor de esporos instalados? Se sim clique na caixa pequena em que se encontra ao lado esquerdo de "Tem coletor de esporos instalados?" e insira a data no calendário em que este foi instalado, para trocar de mês basta clicar nas setas que se encontram ao lado direito e esquerdo de mês e ano.</li>
   <li><b>Passo 3.</b> Clique no botão azul "Próximo", localizado no canto inferior direito.</li>
 </ul>

@@ -7,7 +7,7 @@ Nesta seção iremos aprender como adicionar uma ocorrência de pragas, doenças
 >Tópicos a serem configurados:
 >[[toc]]
 
-Abaixo um tutorial em vídeo de como configurar o Gerenciamento da Safra.
+Abaixo um tutorial em vídeo de como adicionar uma ocorrência.
 
 <video width="100%" height="75%" class="audioplayer" controls>
 <source type="video/mp4" src="/documentation/mip.mp4"></source>
@@ -15,7 +15,7 @@ Sem suporte para o vídeo
 </video>
 
 ::: warning Alerta
-Uma ocorrência só pode ser adicionada se o Produtor, Gerenciamento das URs e o Gerenciamento das Safras já estiverem cadastrados.
+Uma ocorrência só pode ser adicionada se o Produtor, Gerenciamento das URs e o Gerenciamento das Safras já estiverem cadastrados e se o tipo de manejo for MIP Soja.
 :::
 
 ### Dados da Amostragem
